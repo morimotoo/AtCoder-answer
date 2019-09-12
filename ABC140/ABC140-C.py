@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc140/tasks/abc140_c
 N = int(input())
 B = list(map(int, input().strip().split()))
 A=[1000000] * (N)
