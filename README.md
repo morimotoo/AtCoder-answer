@@ -1,3 +1,3 @@
-## README
-競プロ練習中。自分のためのAtCoderの解答置き場。
+## AtCoder解答置き場
+競プロ練習中。
 [AtCoder](https://atcoder.jp/)
